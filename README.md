@@ -1,11 +1,11 @@
 The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 ==================================================
 
-| Anátomic Stem | Stem Symbolizes.. |
-|---|---------------------| 
-| W | Wake (Local)        | 
-| L | Lunch (Local)       | 
-| S | Steep (Sleep Local) |
+| Anátomic Stem.. (AS)  |AS|
+|-----------------------|---| 
+| Wake (Local)          | W | 
+| Lunch (Local)         | L | 
+| Steep (Sleep Local)   | S |
 
 ## Global View ##
 
