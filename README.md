@@ -1,18 +1,115 @@
 The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 ==================================================
+## Global View ##
+
+| Globeally⁵ Orient.ed⁺ | AT Western | AT Mountain | AT Central | AT Eastern | ***** | AT London | AT Amman | AT Skype 上海 Shanghai |
+|-----------------------|------------|-------------|------------|------------|-------|-----------|----------|------------------------|
+|1700| zz | zz | zz | zz | - | W3 | 2L | L5 |
+|1800| W  | zz | zz | zz | - | W4 | 1L | L6 | 
+|1900| W1 | W  | zz | zz | - | 2L | L  | 3S | 
+|2000| W2 | W1 | W  | zz | - | 1L | L1 | 2S | 
+|2100| W3 | W2 | W1 | W  | - | L  | L2 | 1S | 
+|2200| W4 | W3 | W2 | W1 | - | L1 | L3 | S  | 
+|2300| 2L | W4 | W3 | W2 | - | L2 | L4 | zz | 
+|0000| 1L | 2L | W4 | W3 | - | L3 | L5 | zz | 
+|0100| L  | 1L | 2L | W4 | - | L4 | L6 | zz | 
+|0200| L1 | L  | 1L | 2L | - | L5 | 3S | zz | 
+|0300| L2 | L1 | L  | 1L | - | L6 | 2S | zz | 
+|0400| L3 | L2 | L1 | L  | - | 3S | 1S | zz | 
+|0500| L4 | L3 | L2 | L1 | - | 2S | S  | zz | 
+|0600| L5 | L4 | L3 | L2 | - | 1S | zz | W  | 
+|0700| L6 | L5 | L4 | L3 | - | S  | zz | W1 | 
+|0800| 3S | L6 | L5 | L4 | - | zz | zz | W2 | 
+|0900| 2S | 3S | L6 | L5 | - | zz | zz | W3 | 
+|1000| 1S | 2S | 3S | L6 | - | zz | zz | W4 |
+|1100| S  | 1S | 2S | 3S | - | zz | zz | 3L | 
+|1200| zz | S  | 1S | 2S | - | zz | zz | 2L | 
+|1300| zz | zz | S  | 1S | - | zz | zz | 1L | 
+|1400| zz | zz | zz | S  | - | zz | zz | L  |
+
+
+#Local Views#
+[Los Angelas][la], [Denver][denver], [Chicago][chicago], [New York][nyc], [CityÆ][city], ..., [CityN⁴⁺][city]
+
+## Skype 上海 Shanghai ##
+
+| Anátomic | Globeally⁵ Orient.ed⁺ |
+|----------|-----------------------|
+| W  | 0600 |
+| W1 | 0700 |
+| W2 | 0800 |
+| W3 | 0900 |
+| 2L | 1000 |
+| 1L | 1100 |
+| L  | 1200 |
+| L1 | 1300 |
+| L2 | 1400 |
+| L3 | 1500 |
+| L4 | 1600 |
+| L5 | 1700 |
+| L6 | 1800 |
+| 3S | 1900 |
+| 2S | 2000 |
+| 1S | 2100 |
+| S  | 2200 |
+| zz | 2300 |
+
+## New York City ##
+
+| Anátomic | Globeally⁵ Orient.ed⁺ |
+|----------|-----------------------|
+| W  | 1800 |
+| W1 | 1900 |
+| W2 | 2000 |
+| W3 | 2100 |
+| 2L | 2200 |
+| 1L | 2300 |
+| L  | 0000 |
+| L1 | 0100 |
+| L2 | 0200 |
+| L3 | 0300 |
+| L4 | 0400 |
+| L5 | 0500 |
+| L6 | 0600 |
+| 3S | 0700 |
+| 2S | 0800 |
+| 1S | 0900 |
+| S  | 1000 |
+| zz | 1100 |
+
+
+## UTC - London Time (GMT Retired) ##
+
+| Anátomic | Globeally⁵ Orient.ed⁺ |
+|----------|-----------------------|
+| W  | 2200 | 
+| W1 | 2300 |
+| W2 | 0000 |
+| W3 | 0100 |
+| 2L | 0200 |
+| 1L | 0300 |
+| L  | 0400 |
+| L1 | 0500 |
+| L2 | 0600 |
+| L3 | 0700 |
+| L4 | 0800 |
+| L5 | 0900 |
+| L6 | 1000 |
+| 3S | 1100 |
+| 2S | 1200 |
+| 1S | 1300 |
+| S  | 1400 |
+| zz | 1500 |
+
 
 (This requires substantial further work. Recovery⁵ time needed after writing the [lifesaver labs, Pax-mod Calendar][calendar] out. This is still in scrap ⇌ draft state. i will write just what's necessary for a computer scientist, temporal culture social psychologist, graphic or software designer, or policy-maker to catch my drift.)
 
-W = Wake = Current 0600 Local
-L = Lunch = Current 1200 Local
-S = Steep = Current 2200 Local 
+W = Wake
+L = Lunch
+S = Steep
 
-|Anátomic Time | Globeally Orient.ed⁺ Time | Current Local Time |
-|----|----|----|
-|  |   |   |
-|  |   |   |
-|  |   |   |
-|  |   |   |
+
+
 2L = (-2) + 12 = 1000
 L4 = 12 + 4 = 1600
 
