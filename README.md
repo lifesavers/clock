@@ -13,29 +13,30 @@ The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 
 | Globeally⁵ Orient.ed⁺ | AT Western | AT Mountain | AT Central | AT Eastern | ***** | AT London | AT Amman | AT Skype 上海 Shanghai |
 |-----------------------|------------|-------------|------------|------------|-------|-----------|----------|------------------------|
-|1700| zz | zz | zz | zz | - | W3 | 2L | L5 |
-|1800| **W**  | zz | zz | zz | - | W4 | 1L | L6 | 
-|1900| W1 | **W**  | zz | zz | - | 2L | L  | 3S | 
-|2000| W2 | W1 | **W**  | zz | - | 1L | L1 | 2S | 
-|2100| W3 | W2 | W1 | **W**  | - | L  | L2 | 1S | 
-|2200| W4 | W3 | W2 | W1 | - | L1 | L3 | S  | 
-|2300| 2L | W4 | W3 | W2 | - | L2 | L4 | zz | 
-|0000| 1L | 2L | W4 | W3 | - | L3 | L5 | zz | 
-|0100| **L**  | 1L | 2L | W4 | - | L4 | L6 | zz | 
-|0200| L1 | **L**  | 1L | 2L | - | L5 | 3S | zz | 
-|0300| L2 | L1 | **L**  | 1L | - | L6 | 2S | zz | 
-|0400| L3 | L2 | L1 | **L**  | - | 3S | 1S | zz | 
-|0500| L4 | L3 | L2 | L1 | - | 2S | S  | zz | 
-|0600| L5 | L4 | L3 | L2 | - | 1S | zz | W  | 
-|0700| L6 | L5 | L4 | L3 | - | S  | zz | W1 | 
-|0800| 3S | L6 | L5 | L4 | - | zz | zz | W2 | 
-|0900| 2S | 3S | L6 | L5 | - | zz | zz | W3 | 
-|1000| 1S | 2S | 3S | L6 | - | zz | zz | W4 |
-|1100| **S**  | 1S | 2S | 3S | - | zz | zz | 3L | 
-|1200| ***zz*** | **S**  | 1S | 2S | - | zz | zz | 2L | 
-|1300| zz | ***zz*** | **S**  | 1S | - | zz | W  | 1L | 
-|1400| zz | zz | ***zz*** | **S**  | - | zz | W1 | L  |
-|1500| zz | zz | zz | ***zz*** | - | W  | W2 | L1 | 
+|1700| zz (S4:59) | zz | zz | zz | - | W3 | 2L | L5 |
+|1800| zz (S5:59) | zz | zz | W  | - | 2L | 1L | L6 | 
+|1900| zz (S6:59) | zz | W  | W1 | - | 1L | L  | 3S | 
+|2000| zz (S7:59) | W  | W1 | W2 | - | L  | L1 | 2S | 
+|2100| W  | W1 | W2 | W3 | - | L1 | L2 | 1S | 
+|2200| W1 | W2 | W3 | 2L | - | L2 | L3 | zz  | 
+|2300| W2 | W3 | 2L | 1L | - | L3 | L4 | zz | 
+|0000| **W3** | **2L** | **1L** | **L**  | **-** | **L4** | **L5** | **zz** | 
+|0100| 2L | 1L | L  | L1 | - | L5 | L6 | zz | 
+|0200| 1L | L  | L1 | L2 | - | L6 | 3S | zz | 
+|0300| L  | L1 | L2 | L3 | - | 3S | 2S | zz | 
+|0400| L1 | L2 | L3 | L4 | - | 2S | 1S | zz | 
+|0500| L2 | L3 | L4 | L5 | - | 1S | zz  | zz | 
+|0600| L3 | L4 | L5 | L6 | - | zz  | zz | W  | 
+|0700| L4 | L5 | L6 | 3S | - | zz | zz | W1 | 
+|0800| L5 | L6 | 3S | 2S | - | zz | zz | W2 | 
+|0900| L6 | 3S | 2S | 1S | - | zz | zz | W3 | 
+|1000| 3S | 2S | 1S | zz | - | zz | zz | 2L |
+|1100| 2S | 1S | zz | zz | - | zz | W  | 1L | 
+|1200| 1S | zz | zz | zz | - | zz | W1 | L  | 
+|1300| zz (S0:59) | zz | zz | zz | - | W  | W2| L1 | 
+|1400| zz (S1:59)| zz | zz | zz | - | W1 | W3 | L2 |
+|1500| zz (S2:59)| zz | zz | zz | - | W2 | 2L | L3 | 
+|1600| zz (S3:59)| zz | zz | zz | - | W3 | 1L | L4 | 
 
 #Local Views#
 [Los Angelas][la], [Denver][denver], [Chicago][chicago], [New York][nyc], [CityÆ][city], ..., [CityN⁴⁺][city]
