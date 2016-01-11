@@ -7,6 +7,8 @@ The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 | Lunch (Local)         | L | 
 | Steep (Sleep Local)   | S |
 
+***See Skype 上海 Shanghai Below to Get Orient.ed⁺***
+
 ## Global View ##
 
 | Globeally⁵ Orient.ed⁺ | AT Western | AT Mountain | AT Central | AT Eastern | ***** | AT London | AT Amman | AT Skype 上海 Shanghai |
