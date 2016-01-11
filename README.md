@@ -1,5 +1,12 @@
 The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 ==================================================
+
+| Anátomic Stem | Stem Symbolizes.. |
+|---|---------------------| 
+| W | Wake (Local)        | 
+| L | Lunch (Local)       | 
+| S | Steep (Sleep Local) |
+
 ## Global View ##
 
 | Globeally⁵ Orient.ed⁺ | AT Western | AT Mountain | AT Central | AT Eastern | ***** | AT London | AT Amman | AT Skype 上海 Shanghai |
