@@ -7,7 +7,7 @@ The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 | Lunch (Local)         | L | 
 | Steep (Sleep Local)   | S |
 
-***See Skype 上海 Shanghai Below to Get Orient.ed⁺***
+***See [Skype 上海 Shanghai Below](https://github.com/lifesavers/clock/blob/master/README.md#skype-上海-shanghai) to Get Orient.ed⁺***
 
 ## Global View ##
 
