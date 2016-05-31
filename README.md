@@ -1,17 +1,41 @@
-The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
+The Anatomic Clock and Globally Oriented Time
 ==================================================
 
-| Anátomic Stem.. (AS)  |AS|
+If only we could all share a single Globe Time, and use another notation system for our local meal-zones.
+
+| Anatomic Stem.. (AS)  |AS|
 |-----------------------|---| 
 | Wake (Local)          | W | 
 | Lunch (Local)         | L | 
 | Steep (Sleep Local)   | S |
 
-***See [Skype 上海 Shanghai Below](https://github.com/lifesavers/clock/blob/master/README.md#skype-上海-shanghai) to Get Orient.ed⁺***
+## Skype / Shanghai Time ##
+
+| Anátomic | Globeally⁵ Orient.ed⁺ |
+|----------|-----------------------|
+| W  | 0600 |
+| W1 | 0700 |
+| W2 | 0800 |
+| W3 | 0900 |
+| 2L | 1000 |
+| 1L | 1100 |
+| L  | 1200 |
+| L1 | 1300 |
+| L2 | 1400 |
+| L3 | 1500 |
+| L4 | 1600 |
+| L5 | 1700 |
+| L6 | 1800 |
+| 3S | 1900 |
+| 2S | 2000 |
+| 1S | 2100 |
+| S  | 2200 |
+| zz | 2300 |
+
 
 ## Global View ##
 
-| Globeally⁵ Orient.ed⁺ | AT Western | AT Mountain | AT Central | AT Eastern | ***** | AT London | AT Amman | AT Skype 上海 Shanghai |
+| Globe Time | AT Western | AT Mountain | AT Central | AT Eastern | ***** | AT London | AT Amman | AT Skype 上海 Shanghai |
 |-----------------------|------------|-------------|------------|------------|-------|-----------|----------|------------------------|
 |1700| zz (S4:59) | zz | zz | zz | - | W3 | 2L | L5 |
 |1800| zz (S5:59) | zz | zz | W  | - | 2L | 1L | L6 | 
@@ -41,32 +65,10 @@ The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 #Local Views#
 [Los Angelas][la], [Denver][denver], [Chicago][chicago], [New York][nyc], [CityÆ][city], ..., [CityN⁴⁺][city]
 
-## Skype 上海 Shanghai ##
-
-| Anátomic | Globeally⁵ Orient.ed⁺ |
-|----------|-----------------------|
-| W  | 0600 |
-| W1 | 0700 |
-| W2 | 0800 |
-| W3 | 0900 |
-| 2L | 1000 |
-| 1L | 1100 |
-| L  | 1200 |
-| L1 | 1300 |
-| L2 | 1400 |
-| L3 | 1500 |
-| L4 | 1600 |
-| L5 | 1700 |
-| L6 | 1800 |
-| 3S | 1900 |
-| 2S | 2000 |
-| 1S | 2100 |
-| S  | 2200 |
-| zz | 2300 |
 
 ## New York City ##
 
-| Anátomic | Globeally⁵ Orient.ed⁺ |
+| Anatomic | Globally Oriented |
 |----------|-----------------------|
 | W  | 1800 |
 | W1 | 1900 |
@@ -90,7 +92,7 @@ The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 
 ## UTC - London Time (GMT Retired) ##
 
-| Anátomic | Globeally⁵ Orient.ed⁺ |
+| Anatomic | Globally Oriented |
 |----------|-----------------------|
 | W  | 2200 | 
 | W1 | 2300 |
@@ -112,13 +114,14 @@ The Anátomic Clock and Globeally⁵ Orient.ed⁺ Time
 | zz | 1500 |
 
 
-(This requires substantial further work. Recovery⁵ time needed after writing the [lifesaver labs, Pax-mod Calendar][calendar] out. This is still in scrap ⇌ draft state. i will write just what's necessary for a computer scientist, temporal culture social psychologist, graphic or software designer, or policy-maker to catch my drift.)
+(This requires substantial further work, for sure. This is still in scrap ⇌ draft state. I hope that I've written enough for you to appreciate the core arguments in favor of Globe Time with Meal Zones.)
+
+--------------
+
 
 W = Wake
 L = Lunch
 S = Steep
-
-
 
 2L = (-2) + 12 = 1000
 L4 = 12 + 4 = 1600
@@ -130,30 +133,25 @@ W2:18 = 0818
 
 1S = 9PM or 2100.
 
+Mealzone Example
 
-Let's say it's 6 PM Current Local. You'd see L6 on Your clockface, but then the clock will elegantly⁵ turn over at the transition from L6:58 to L6:59 to 3:XXS, often with a visual, auditory, or vibratory alert to let You know that wei're now in the Steep Countdown Zone, then continue the countdown to S (2S, 1S, :54S, :36S, :18S, :10S, :02S, S). Your Clockface is now really intelligent to Your Steep Plan, and You can of course shift its phase, if You want to or need to. 
+Let's say it is 6 PM Current Local. You'd see L6 on Your clockface, but then the clock will elegantly turn over at the transition from L6:58 to L6:59 to 3:00S, often with a visual, auditory, or vibratory alert to let you know that we're now in the Steep Countdown Zone, then continue the countdown to S (2S, 1S, :54S, :36S, :18S, :10S, :02S, S). Your Clockface is now quite intelligent to your Sleep Plan, and you can of course shift its phase, if you want. 
 
 
 WLS System operates on prefix and postfix notations. 
 
-The S for "Steep" implies, "Sleep Steeply, Steep with Tea [Unwind, Cooldown, Get ready for bed] in the Hour Countdown Before" 
+Doing so eternally⁵ would be easiest if we could all shift to Oriented Skype Shanghai 上海 Time for an All-World Universal Time that any Time Zone Jump in any direction reverts to as an "All World Collaborative Planning Zone". Meaning, when Colorado talks to New York or Texas talks to California, we do it in Oriented Time-Zone Ranges, and not trying to adapt to each Local Time Zone one at a time.
 
+Not as much as the Calendar, but to Get Really Well Coordinated, we need to at minimum support a Prime, All-World Universal Time.
 
+Meal Zones
 
+Since We're speaking of the Calendar, and getting into the nitty-gritty of the Long-term Code Changes needed to get this to Work, we should also talk about how to make Local Time Better with Meal Zones, and drop Railway Local Time and its constant interference with Global Time, or what might also be known as Shanghai or Skype Time, if we humbly recenter Globe Time to the present time zone that is most vibrant and most populous with life. 
 
-Doing so eternally⁵ would be easiest if Wei could all shift to Orient.ed⁺ Skype 上海 Shanghai Time for an All-World Universal Time that any Time Zone Jump in any direction reverts to as an "All World Collaborative Planning Zone". Meaning, when Colorado talks to New York or Texas talks to California, Wei do it in Orient.ed⁺ Time-Zone Ranges, and not trying to adapt to each Local Time Zone one at a time.  Orient.ed⁺ is the Time Zone 
+Now, the question is, why? Or, as I like to say, Y⁵? Let me skip a few steps, and take you to the root of it. Midnight is used as the naive "Sleep Now!" cue, and a large number of students in high school won't steep until the clock turns from 11:59 PM to 12:00 AM (the PM to AM shift is enough to trigger a decisional shift and send a student who's staying up late doing homework or, more likely in the present day⁵ U|S⁺ ATUS Studies, watching television, playing a video game, or browsing a social network, to bed). Students need a visual indicator that "Now's the Time to Sleep." Students aren't the only ones who need the indicator.. I could use such an indicator myself, as well.
 
-Not as much as the Calendar, but to Get Really Well Coordinated, Wei need to at minimum support a Prime, All-World Universal Time 
+But there's No Agreed Upon Convention for Anatomic Landmarks through the Day in Local Time. 
 
-Local Lunch and Steep Time.
-
-Since We're speaking of the Calendar, and getting into the nitty-gritty of the Long-term Code Changes needed to get this to Work, wei should also talk about how to make Local Time Better, and Drop Railway Local Time and its constant interference with Global Orient.ed Time, or what might also be known as Skype 上海 Shanghai Time. 
-
-Wei have cellphones and laptops and computers today.  Wei don't have to be tied down to the metapour of a "constant rotational velocity⁵" mechanical clock face. It's objectively not healthy.. the American Academy of Pediatrics published a report that indicates schools should never start before 8:30 AM or students will die in traffic crashes and arrive at school too fatigued to learn.  
-
-Now, the question is, Y⁵? Let me skip a few steps, and take You to the root of it. Midnight is used as the naive "Steep Now!" cue, and a large number of students in high school won't steep until the clock turns from 11:59 PM to 12:00 AM (the PM to AM shift is enuf to trigger a decisional shift and send a student who's staying up late doing homework or, more likely in the present day⁵ U|S⁺ ATUS Studies, watching television, playing a video game, or browsing a social network, to bed). Students need a visual indicator that "Now's the Time to Steep." Students aren't the only ones who need the indicator.. i could use such an indicator myself, too.
-
-But there's No Agreed Upon Convention for Anatomic Landmarks thru the Day in Local Time. 
-
+We have cellphones and laptops and computers today.  We don't have to be tied down to the metapour of a "constant rotational velocity⁵" mechanical clock face. It's objectively not healthy.. the American Academy of Pediatrics published a report that indicates schools should never start before 8:30 AM or students will die in traffic crashes and arrive at school too fatigued to learn.  
 
 [calendar]: https://github.com/lifesavers/calendar
