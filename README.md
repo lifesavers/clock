@@ -1,5 +1,6 @@
 The Anatomic Clock and Globally Oriented Time
 ==================================================
+#INCOMPLETE, EXPLORATORY#
 
 If only we could all share a single Globe Time, and use another notation system for our local meal-zones.
 
@@ -142,11 +143,11 @@ WLS System operates on prefix and postfix notations.
 
 Doing so eternally⁵ would be easiest if we could all shift to Oriented Skype Shanghai 上海 Time for an All-World Universal Time that any Time Zone Jump in any direction reverts to as an "All World Collaborative Planning Zone". Meaning, when Colorado talks to New York or Texas talks to California, we do it in Oriented Time-Zone Ranges, and not trying to adapt to each Local Time Zone one at a time.
 
-Not as much as the Calendar, but to Get Really Well Coordinated, we need to at minimum support a Prime, All-World Universal Time.
+Not as much as the Calendar, but to get really well coordinated, we need to at minimum support a Prime, All-World Universal Time.
 
 Meal Zones
 
-Since We're speaking of the Calendar, and getting into the nitty-gritty of the Long-term Code Changes needed to get this to Work, we should also talk about how to make Local Time Better with Meal Zones, and drop Railway Local Time and its constant interference with Global Time, or what might also be known as Shanghai or Skype Time, if we humbly recenter Globe Time to the present time zone that is most vibrant and most populous with life. 
+Since we're speaking of the calendar, and getting into the nitty-gritty of the long-term code changes needed to get this to work, we should also talk about how to make Local Time better with Meal Zones, and drop Railway Local Time and its constant interference with Globe Time, or what might also be known colloquially as Skype Time. If we humbly recenter Globe Time to the present time zone that is most vibrant and most populous with life, Globe Time would be analogous to the present Meal Zone in Shanghai, China (中国上海).
 
 Now, the question is, why? Or, as I like to say, Y⁵? Let me skip a few steps, and take you to the root of it. Midnight is used as the naive "Sleep Now!" cue, and a large number of students in high school won't steep until the clock turns from 11:59 PM to 12:00 AM (the PM to AM shift is enough to trigger a decisional shift and send a student who's staying up late doing homework or, more likely in the present day⁵ U|S⁺ ATUS Studies, watching television, playing a video game, or browsing a social network, to bed). Students need a visual indicator that "Now's the Time to Sleep." Students aren't the only ones who need the indicator.. I could use such an indicator myself, as well.
 
